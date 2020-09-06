@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewBag.Title = "Registration";
+}
+
+<h2>Registration</h2>
+
+<form method="POST" action="/Home/Save">
+    <table>
+
+        <tr>
+            <td><label for="txtUserName">UserName:</label>
+            <td><input type="text" name="username" id="txtUserName" />
+        <tr>
+            <td><label for="txtfirstName">First Name:</label>
+            <td><input type="text" name="firstname" id="txtfirstName" />
+
+        <tr>
+            <td><label for="txtlastName">Last Name:</label>
+            <td><input type="text" name="lastname" id="txtlastName" />
+
+        <tr>
+            <td><label for="txtEmail">Email:</label>
+            <td><input type="email" name="emailaddress" id="txtEmail" />
+
+        <tr>
+            <td><label for="txtNumber">Phone Number:</label>
+            <td><input type="text" name="phonenumber" id="txtNumber" />
+
+        <tr>
+            <td><label for="txtBirthday">Birthday:</label>
+            <td><input type="date" name="birthday" id="txtBirthday" />
+
+        <tr>
+            <td><label for="txtState">State:</label>
+            <td><input type="text" name="state" id="txtState" />
+
+        <tr>
+            <td><label for="txtPass">Password:</label>
+            <td><input type="password" name="password" id="txtPass" minlength="8" required />
+
+        <tr>
+            <td><label for="txtFavoriteColor">Favorite Color:</label>
+            <td><input type="text" name="color" id="txtFavoriteColor" />
+    </table>
+    <input type="submit" value="Submit" />
+</form>
