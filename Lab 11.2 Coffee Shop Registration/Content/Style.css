@@ -120,3 +120,28 @@
     margin: 40px auto 80px auto;
     font-size: 1.5em;
 }
+
+.shop-item-title {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: black;
+    margin-bottom: 15px;
+}
+
+.shop-item-title {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.shop-item-price {
+    flex-grow: 1;
+    color: black;
+}

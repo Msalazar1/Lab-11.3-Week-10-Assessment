@@ -76,3 +76,4 @@ C:\Users\msalazar\source\repos\Lab 11.2 Coffee Shop Registration\Lab 11.2 Coffee
 C:\Users\msalazar\source\repos\Lab 11.2 Coffee Shop Registration\Lab 11.2 Coffee Shop Registration\obj\Debug\Lab 11.2 Coffee Shop Registration.csproj.CopyComplete
 C:\Users\msalazar\source\repos\Lab 11.2 Coffee Shop Registration\Lab 11.2 Coffee Shop Registration\obj\Debug\Lab 11.2 Coffee Shop Registration.dll
 C:\Users\msalazar\source\repos\Lab 11.2 Coffee Shop Registration\Lab 11.2 Coffee Shop Registration\obj\Debug\Lab 11.2 Coffee Shop Registration.pdb
+C:\Users\msalazar\source\repos\Lab 11.2 Coffee Shop Registration\Lab 11.2 Coffee Shop Registration\obj\Debug\Lab 11.2 Coffee Shop Registration.csprojAssemblyReference.cache
